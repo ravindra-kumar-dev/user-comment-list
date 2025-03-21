@@ -6,6 +6,7 @@
     "user-comment-list": {
       "projectType": "application",
       "schematics": {},
+
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -91,5 +92,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "c68b0071-fcf6-4621-b661-942207ebf869"
   }
 }
